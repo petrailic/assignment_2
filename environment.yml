@@ -1,0 +1,20 @@
+name: pred_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13.5
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - scikit-learn
+  - patsy
+  - pydotplus
+  - ipykernel
+  - pip
+  - shap
+  - scikit-misc
+  - pip:
+      - pyfixest
