@@ -20,6 +20,9 @@ The objective of this project is to build a model to predict fast growth of firm
 ├── firm_growth_data_prep.ipynb
 ├── py_helper_functions.py
 ├── README.md
+├── reports
+│   ├── summary_report.pdf
+│   └── technical_report.pdf
 ├── task_1_pred_and_class.ipynb
 └── task_2_pred_and_class.ipynb
 ```
